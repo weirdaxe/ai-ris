@@ -1,8 +1,18 @@
-streamlit>=1.36
-requests>=2.32
-cloudscraper>=1.2.71
-beautifulsoup4>=4.12
-lxml>=5.3
-feedparser>=6.0
-python-dateutil>=2.9
-pandas>=2.2
+# Web app
+streamlit>=1.35.0
+
+# Scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+lxml>=4.9.3
+autoscraper
+scrapling
+scrapy
+
+# Data handling
+pandas>=2.2.0
+python-dateutil>=2.9.0
+feedparser>=6.0.11
+
+# Timezone support
+tzdata>=2024.1
