@@ -1,0 +1,131 @@
+{
+    "site_name": "TengriNews",
+    "url": "https://en.tengrinews.kz/news/page/1/",
+    "scraper_file": "TengriNews_scraper.json",
+    "saved_from_rules": [
+        "rule_gek6",
+        "rule_0ufc",
+        "rule_gtkp"
+    ],
+    "mapping": {
+        "rule_gtkp": "url",
+        "rule_0ufc": "date",
+        "rule_gek6": "title",
+        "rule_g2dn": "other",
+        "rule_nrny": "other",
+        "rule_z0in": "other",
+        "rule_i4f6": "other",
+        "rule_675w": "other",
+        "rule_a7g8": "other",
+        "rule_9dea": "other",
+        "rule_1cfk": "other",
+        "rule_ihsy": "other",
+        "rule_s3xv": "other",
+        "rule_48ah": "other",
+        "rule_mgje": "other",
+        "rule_2b6g": "other",
+        "rule_6ek3": "other",
+        "rule_lt66": "other",
+        "rule_zeog": "other",
+        "rule_5141": "other",
+        "rule_afgh": "other"
+    },
+    "filter": null,
+    "items": [
+        {
+            "title": "“His Excellency”: photos of Tokayev appear on the streets of Moscow",
+            "url": "https://en.tengrinews.kz/kazakhstan_news/his-excellency-photos-of-tokayev-appear-on-the-streets-of-270105/",
+            "date": null
+        },
+        {
+            "title": "Tokayev arrives in Moscow",
+            "url": "https://en.tengrinews.kz/kazakhstan_news/tokayev-arrives-in-moscow-270104/",
+            "date": null
+        },
+        {
+            "title": "A billion to be spent on the development of Lake Alakol: promises from the Akimat",
+            "url": "https://en.tengrinews.kz/kazakhstan_news/a-billion-to-be-spent-on-the-development-of-lake-alakol-270096/",
+            "date": null
+        },
+        {
+            "title": "Kazakhstanis will be able to report overpriced medicines",
+            "url": "https://en.tengrinews.kz/kazakhstan_news/kazakhstanis-will-be-able-to-report-overpriced-medicines-270094/",
+            "date": null
+        },
+        {
+            "title": "Moscow decorated with Kazakhstan’s flags",
+            "url": "https://en.tengrinews.kz/kazakhstan_news/moscow-decorated-with-kazakhstans-flags-270092/",
+            "date": null
+        },
+        {
+            "title": "US Senators again propose repealing the amendment applied to Kazakhstan",
+            "url": "https://en.tengrinews.kz/kazakhstan_news/us-senators-again-propose-repealing-the-amendment-applied-to-270091/",
+            "date": null
+        },
+        {
+            "title": "Phone verification: Kazakhstanis continue to report failures and rejections",
+            "url": "https://en.tengrinews.kz/kazakhstan_news/phone-verification-kazakhstanis-continue-to-report-failures-270089/",
+            "date": null
+        },
+        {
+            "title": "Lynx cub comes to people for help in Abai region",
+            "url": "https://en.tengrinews.kz/kazakhstan_news/lynx-cub-comes-to-people-for-help-in-abai-region-270088/",
+            "date": null
+        },
+        {
+            "title": "Rise in infections: Healthcare Ministry reveals which viruses are active in Kazakhstan",
+            "url": "https://en.tengrinews.kz/kazakhstan_news/rise-in-infections-healthcare-ministry-reveals-which-viruses-270087/",
+            "date": null
+        },
+        {
+            "title": "Snowfall and blizzards: storm warning issued across Kazakhstan",
+            "url": "https://en.tengrinews.kz/kazakhstan_news/snowfall-and-blizzards-storm-warning-issued-across-270078/",
+            "date": "2025-11-10"
+        },
+        {
+            "title": "Kazakhstan makes it easier to join the police",
+            "url": "https://en.tengrinews.kz/kazakhstan_news/kazakhstan-makes-it-easier-to-join-the-police-270072/",
+            "date": "2025-11-10"
+        },
+        {
+            "title": "Trump clearly highlighted Tokayev – former Georgian Minister",
+            "url": "https://en.tengrinews.kz/kazakhstan_news/trump-clearly-highlighted-tokayev-former-georgian-minister-270071/",
+            "date": "2025-11-10"
+        },
+        {
+            "title": "Second major fire in one day reported in Almaty",
+            "url": "https://en.tengrinews.kz/kazakhstan_news/second-major-fire-in-one-day-reported-in-almaty-270077/",
+            "date": "2025-11-10"
+        },
+        {
+            "title": "Rain, snow, and blizzards: what the weather will be like in Kazakhstan on November 10",
+            "url": "https://en.tengrinews.kz/kazakhstan_news/rain-snow-and-blizzards-what-the-weather-will-be-like-in-270076/",
+            "date": "2025-11-10"
+        },
+        {
+            "title": "Messages about alleged planned attacks in Aktau schools circulate online",
+            "url": "https://en.tengrinews.kz/kazakhstan_news/messages-about-alleged-planned-attacks-in-aktau-schools-270075/",
+            "date": "2025-11-10"
+        },
+        {
+            "title": "What global media are saying about Tokayev’s visit to Washington",
+            "url": "https://en.tengrinews.kz/kazakhstan_news/what-global-media-are-saying-about-tokayevs-visit-to-270068/",
+            "date": "2025-11-07"
+        },
+        {
+            "title": "Trump may visit Kazakhstan",
+            "url": "https://en.tengrinews.kz/kazakhstan_news/trump-may-visit-kazakhstan-270067/",
+            "date": "2025-11-07"
+        },
+        {
+            "title": "Tokayev’s visit to Washington: multibillion-dollar deals signed",
+            "url": "https://en.tengrinews.kz/kazakhstan_news/tokayevs-visit-to-washington-multibillion-dollar-deals-270066/",
+            "date": "2025-11-07"
+        },
+        {
+            "title": "Tokayev and Trump held phone call with Netanyahu from Oval Office",
+            "url": "https://en.tengrinews.kz/kazakhstan_news/tokayev-and-trump-held-phone-call-with-netanyahu-from-oval-270065/",
+            "date": "2025-11-07"
+        }
+    ]
+}

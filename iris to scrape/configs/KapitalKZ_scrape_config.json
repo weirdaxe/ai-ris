@@ -1,0 +1,368 @@
+{
+    "site_name": "KapitalKZ",
+    "url": "https://kapital.kz/news?page=1",
+    "scraper_file": "KapitalKZ_scraper.json",
+    "saved_from_rules": [
+        "rule_dvbl",
+        "rule_q4yi"
+    ],
+    "mapping": {
+        "rule_q4yi": "url",
+        "rule_ipky": "other",
+        "rule_dvbl": "title",
+        "rule_9t3p": "other"
+    },
+    "filter": null,
+    "items": [
+        {
+            "title": "Президенты Казахстана и России провели неформальную встречу",
+            "url": "https://kapital.kz/economic/142286/prezidenty-kazahstana-i-rossii-proveli-neformalnuyu-vstrechu.html",
+            "date": null
+        },
+        {
+            "title": "Глава государства направил телеграмму соболезнования президенту Турции",
+            "url": "https://kapital.kz/gosudarstvo/142285/glava-gosudarstva-napravil-telegrammu-soboleznovaniya-prezidentu-turcii.html",
+            "date": null
+        },
+        {
+            "title": "Рейтинг МВФ: Казахстан вошел в ТОП-50 крупнейших экономик мира в 2026 году ",
+            "url": "https://kapital.kz/economic/142283/rejting-mvf-kazahstan-voshel-v-top-50-krupnejshih-ekonomik-mira-v-2026-godu.html",
+            "date": null
+        },
+        {
+            "title": "Булат Танабергенов назначен председателем Комитета по защите прав потребителей",
+            "url": "https://kapital.kz/naznacheniya/142279/bulat-tanabergenov-naznachen-predsedatelem-komiteta-po-zashite-prav-potrebitelej.html",
+            "date": null
+        },
+        {
+            "title": "Ерлан Акбаров назначен вице-министром энергетики  ",
+            "url": "https://kapital.kz/naznacheniya/142278/erlan-akbarov-naznachen-vice-ministrom-energetiki.html",
+            "date": null
+        },
+        {
+            "title": "Касым-Жомарт Токаев прибыл с государственным визитом в Москву",
+            "url": "https://kapital.kz/gosudarstvo/142277/kasym-zhomart-tokaev-pribyl-s-gosudarstvennym-vizitom-v-moskvu.html",
+            "date": null
+        },
+        {
+            "title": "KPI, реструктуризация, нацеленность на результаты: в Kazakh Invest перестроят процессы",
+            "url": "https://kapital.kz/economic/142276/kpi-restrukturizaciya-nacelennost-na-rezultaty-v-kazakh-invest-perestroyat-processy.html",
+            "date": null
+        },
+        {
+            "title": "Нұрбанк жыл соңына дейін мемлекеттік көмектің бір бөлігін қайтаруға ниетті",
+            "url": "https://kapital.kz/finance/142275/nurbank-zhyl-songyna-dejin-memlekettik-koemekting-bir-boeligin-khajtarugha-nietti.html",
+            "date": null
+        },
+        {
+            "title": "В 2026 году в Казахстане запустят программу Заказ на инвестиции",
+            "url": "https://kapital.kz/economic/142274/v-2026-godu-v-kazahstane-zapustyat-programmu-zakaz-na-investicii.html",
+            "date": null
+        },
+        {
+            "title": "Средневзвешенный курс доллара на бирже составил 525,28 тенге",
+            "url": "https://kapital.kz/finance/142273/srednevzveshennyj-kurs-dollara-na-birzhe-sostavil-52528-tenge.html",
+            "date": null
+        },
+        {
+            "title": "Предельные цены на лекарства можно узнать через приложение Naqty Onim",
+            "url": "https://kapital.kz/economic/142272/predelnye-ceny-na-lekarstva-mozhno-uznat-cherez-prilozhenie-naqty-onim.html",
+            "date": null
+        },
+        {
+            "title": "В Казахстане продлили действие национальной процедуры регистрации лекарств",
+            "url": "https://kapital.kz/gosudarstvo/142271/v-kazahstane-prodlili-dejstvie-nacionalnoj-procedury-registracii-lekarstv.html",
+            "date": null
+        },
+        {
+            "title": "Порядка 1500 грузовых авто скопилось на границе с Китаем ",
+            "url": "https://kapital.kz/economic/142270/poryadka-1500-gruzovyh-avto-skopilos-na-granice-s-kitaem.html",
+            "date": null
+        },
+        {
+            "title": "2026 жылы Астанада геологиялық зертхана құрылысы басталады",
+            "url": "https://kapital.kz/economic/142269/2026-zhyly-astanada-geologiyalykh-zerthana-khurylysy-bastalady.html",
+            "date": null
+        },
+        {
+            "title": "До конца года Нурбанк намерен вернуть часть госпомощи",
+            "url": "https://kapital.kz/finance/142268/do-konca-goda-nurbank-nameren-vernut-chast-gospomoshi.html",
+            "date": null
+        },
+        {
+            "title": "Через интернет и мобильный телефон проходит 70% операций по картам",
+            "url": "https://kapital.kz/finance/142266/cherez-internet-i-mobilnyj-telefon-prohodit-70percent-operacij-po-kartam.html",
+            "date": null
+        },
+        {
+            "title": "Назначен посол Казахстана в Конго",
+            "url": "https://kapital.kz/naznacheniya/142265/naznachen-posol-kazahstana-v-kongo.html",
+            "date": null
+        },
+        {
+            "title": "Мадияр Менилбеков назначен послом Казахстана в Бахрейне",
+            "url": "https://kapital.kz/naznacheniya/142264/madiyar-menilbekov-naznachen-poslom-kazahstana-v-bahrejne.html",
+            "date": null
+        },
+        {
+            "title": "От Алматы до Амстердама: как казахстанская культура завоевывает Европу",
+            "url": "https://kapital.kz/lifestyle/142257/ot-almaty-do-amsterdama-kak-kazahstanskaya-kultura-zavoevyvaet-evropu.html",
+            "date": null
+        },
+        {
+            "title": "Не допускать необоснованного удорожания лекарств поручил премьер антимонопольщикам",
+            "url": "https://kapital.kz/economic/142263/ne-dopuskat-neobosnovannogo-udorozhaniya-lekarstv-poruchil-premer-antimonopolshikam.html",
+            "date": null
+        },
+        {
+            "title": "Открыт конкурс кураторских заявок для павильона Казахстана на Венецианской биеннале",
+            "url": "https://kapital.kz/lifestyle/142260/otkryt-konkurs-kuratorskih-zayavok-dlya-pavilona-kazahstana-na-venecianskoj-biennale.html",
+            "date": null
+        },
+        {
+            "title": "Акимы будут персонально отвечать за своевременность реконструкции вокзалов",
+            "url": "https://kapital.kz/gosudarstvo/142261/akimy-budut-personalno-otvechat-za-svoevremennost-rekonstrukcii-vokzalov.html",
+            "date": null
+        },
+        {
+            "title": "СК-Фармация создаст склады медпрепаратов в шести регионах",
+            "url": "https://kapital.kz/economic/142262/sk-farmaciya-sozdast-sklady-medpreparatov-v-shesti-regionah.html",
+            "date": null
+        },
+        {
+            "title": "Каждый пятый выпускник не соблюдает ПДД: в автошколах СКО выявили нарушения  ",
+            "url": "https://kapital.kz/gosudarstvo/142258/kazhdyj-pyatyj-vypusknik-ne-soblyudaet-pdd-v-avtoshkolah-sko-vyyavili-narusheniya.html",
+            "date": null
+        },
+        {
+            "title": "В Казахстане стартовала ипотека без первоначального взноса",
+            "url": "https://kapital.kz/real_estate/142259/v-kazahstane-startovala-ipoteka-bez-pervonachalnogo-vznosa.html",
+            "date": null
+        },
+        {
+            "title": "Премьеру отчитались на критику о дефиците жизненно важных лекарств",
+            "url": "https://kapital.kz/gosudarstvo/142256/premeru-otchitalis-na-kritiku-o-deficite-zhiznenno-vazhnyh-lekarstv.html",
+            "date": null
+        },
+        {
+            "title": "С помощью маркировки в аптеках выявили бесплатные медикаменты",
+            "url": "https://kapital.kz/gosudarstvo/142255/s-pomoshyu-markirovki-v-aptekah-vyyavili-besplatnye-medikamenty.html",
+            "date": null
+        },
+        {
+            "title": "В 2026 году в Астане начнут строить геологическую лабораторию",
+            "url": "https://kapital.kz/economic/142254/v-2026-godu-v-astane-nachnut-stroit-geologicheskuyu-laboratoriyu.html",
+            "date": null
+        },
+        {
+            "title": "В 2025 году в Казахстане выявили 1 845 мест незаконной добычи полезных ископаемых",
+            "url": "https://kapital.kz/economic/142253/v-2025-godu-v-kazahstane-vyyavili-1-845-mest-nezakonnoj-dobychi-poleznyh-iskopaemyh.html",
+            "date": null
+        },
+        {
+            "title": "Геологические данные планируют оцифровать с помощью Big Data и ИИ",
+            "url": "https://kapital.kz/economic/142252/geologicheskie-dannye-planiruyut-ocifrovat-s-pomoshyu-big-data-i-ii.html",
+            "date": null
+        },
+        {
+            "title": "Акции Kaspi выросли на 2,3% на фоне отчета и запуска buyback-программы",
+            "url": "https://kapital.kz/finance/142251/akcii-kaspi-vyrosli-na-23percent-na-fone-otcheta-i-zapuska-buyback-programmy.html",
+            "date": null
+        },
+        {
+            "title": "На бирже доллар продается выше отметки 524 тенге",
+            "url": "https://kapital.kz/finance/142250/na-birzhe-dollar-prodaetsya-vyshe-otmetki-524-tenge.html",
+            "date": null
+        },
+        {
+            "title": "После ревизии участков недр Минэнерго расторгло 17 контрактов  ",
+            "url": "https://kapital.kz/economic/142249/posle-revizii-uchastkov-nedr-minenergo-rastorglo-17-kontraktov.html",
+            "date": null
+        },
+        {
+            "title": "Казахстан и США выходят на новый уровень стратегического партнерства",
+            "url": "https://kapital.kz/economic/142246/kazahstan-i-ssha-vyhodyat-na-novyj-uroven-strategicheskogo-partnerstva.html",
+            "date": null
+        },
+        {
+            "title": "Лабораторный комплекс геологической аналитики построят в Казахстане ",
+            "url": "https://kapital.kz/economic/142247/laboratornyj-kompleks-geologicheskoj-analitiki-postroyat-v-kazahstane.html",
+            "date": null
+        },
+        {
+            "title": "В 2024 году недропользователи нарушили контракты на 19 млрд тенге",
+            "url": "https://kapital.kz/economic/142248/v-2024-godu-nedropolzovateli-narushili-kontrakty-na-19-mlrd-tenge.html",
+            "date": null
+        },
+        {
+            "title": "В электронный формат перевели 73% первичной геологической информации  ",
+            "url": "https://kapital.kz/tehnology/142245/v-elektronnyj-format-pereveli-73percent-pervichnoj-geologicheskoj-informacii.html",
+            "date": null
+        },
+        {
+            "title": "В Алматы осудили сотрудников СпецЦОНа за незаконную регистрацию авто",
+            "url": "https://kapital.kz/gosudarstvo/142244/v-almaty-osudili-sotrudnikov-speccona-za-nezakonnuyu-registraciyu-avto.html",
+            "date": null
+        },
+        {
+            "title": "Dostyk Plaza получила золотой сертификат Smart Plastic Zone",
+            "url": "https://kapital.kz/gosudarstvo/142122/dostyk-plaza-poluchila-zolotoj-sertifikat-smart-plastic-zone.html",
+            "date": null
+        },
+        {
+            "title": "Чем займется созданная Кенесом Ракишевым Fincraft Energy Holding Limited",
+            "url": "https://kapital.kz/business/142242/chem-zajmetsya-sozdannaya-kenesom-rakishevym-fincraft-energy-holding-limited.html",
+            "date": null
+        },
+        {
+            "title": "В Казахстане отмечено снижение реальной зарплаты - аналитики",
+            "url": "https://kapital.kz/economic/142243/v-kazahstane-otmecheno-snizhenie-realnoj-zarplaty-analitiki.html",
+            "date": null
+        },
+        {
+            "title": "Курсы валют на 11 ноября, цены на нефть и металлы",
+            "url": "https://kapital.kz/finance/142241/kursy-valyut-na-11-noyabrya-ceny-na-neft-i-metally.html",
+            "date": null
+        },
+        {
+            "title": "Фондовый рынок Индии вырастет на 14% к концу 2026 года – Goldman Sachs",
+            "url": "https://kapital.kz/world/142240/fondovyj-rynok-indii-vyrastet-na-14percent-k-koncu-2026-goda-goldman-sachs.html",
+            "date": null
+        },
+        {
+            "title": "Apple остается самым дорогим брендом",
+            "url": "https://kapital.kz/world/142239/apple-ostaetsya-samym-dorogim-brendom.html",
+            "date": null
+        },
+        {
+            "title": "Государству возмещено 112 млрд тенге",
+            "url": "https://kapital.kz/economic/142234/gosudarstvu-vozmesheno-112-mlrd-tenge.html",
+            "date": null
+        },
+        {
+            "title": "Сектор связи Алматинской области достиг 13,7 млрд тенге",
+            "url": "https://kapital.kz/tehnology/142233/sektor-svyazi-almatinskoj-oblasti-dostig-137-mlrd-tenge.html",
+            "date": null
+        },
+        {
+            "title": "Қазақстанның ЖІӨ өсімі 2025 жылдың 10 айында 6,4%-ды құрады",
+            "url": "https://kapital.kz/economic/142232/khazakhstannyng-zhioe-oesimi-2025-zhyldyng-10-ajynda-64percent-dy-khurady.html",
+            "date": null
+        },
+        {
+            "title": "Кеңес Рақышев АХҚО-да компаниясын тіркеді ",
+            "url": "https://kapital.kz/business/142229/kenges-rakhyshev-ahkho-da-kompaniyasyn-tirkedi.html",
+            "date": null
+        },
+        {
+            "title": "Рост ВВП Казахстана за 10 месяцев составил 6,4%",
+            "url": "https://kapital.kz/economic/142231/rost-vvp-kazahstana-za-10-mesyacev-sostavil-64percent.html",
+            "date": null
+        },
+        {
+            "title": "Средневзвешенный курс доллара на бирже составил 523,58 тенге",
+            "url": "https://kapital.kz/finance/142230/srednevzveshennyj-kurs-dollara-na-birzhe-sostavil-52358-tenge.html",
+            "date": null
+        },
+        {
+            "title": "AI-оптимизм охлаждается. Рынки корректируются ",
+            "url": "https://kapital.kz/finance/142227/ai-optimizm-ohlazhdaetsya-rynki-korrektiruyutsya.html",
+            "date": null
+        },
+        {
+            "title": "Налоговый кодекс 2026: ключевые изменения и как к ним подготовиться",
+            "url": "https://kapital.kz/business/142215/nalogovyj-kodeks-2026-klyuchevye-izmeneniya-i-kak-k-nim-podgotovitsya.html",
+            "date": null
+        },
+        {
+            "title": "Сергей Кан приватизировал футбольный клуб Кызылжар",
+            "url": "https://kapital.kz/business/142228/sergej-kan-privatiziroval-futbolnyj-klub-kyzylzhar.html",
+            "date": null
+        },
+        {
+            "title": "Развитие межбанковского QR и усиление кибербезопасности обсудят на Central Asia Fintech Summit",
+            "url": "https://kapital.kz/finance/142226/razvitie-mezhbankovskogo-qr-i-usilenie-kiberbezopasnosti-obsudyat-na-central-asia-fintech-summit.html",
+            "date": null
+        },
+        {
+            "title": "В октябре цены на новостройки в Алматы заметно поднялись ",
+            "url": "https://kapital.kz/real_estate/142225/v-oktyabre-ceny-na-novostrojki-v-almaty-zametno-podnyalis.html",
+            "date": null
+        },
+        {
+            "title": "Pfizer покупает разработчика препаратов от ожирения Metsera",
+            "url": "https://kapital.kz/world/142224/pfizer-pokupaet-razrabotchika-preparatov-ot-ozhireniya-metsera.html",
+            "date": null
+        },
+        {
+            "title": "Депозиттер бойынша кепілдік беру сомасын арттыру жоспарланып отыр ма?",
+            "url": "https://kapital.kz/finance/142223/depozitter-bojynsha-kepildik-beru-somasyn-arttyru-zhosparlanyp-otyr-ma.html",
+            "date": null
+        },
+        {
+            "title": "Кенес Ракишев зарегистрировал компанию в МФЦА ",
+            "url": "https://kapital.kz/business/142222/kenes-rakishev-zaregistriroval-kompaniyu-v-mfca.html",
+            "date": null
+        },
+        {
+            "title": "Рынок автосервиса обновил рекорд по объему услуг",
+            "url": "https://kapital.kz/economic/142220/rynok-avtoservisa-obnovil-rekord-po-obuemu-uslug.html",
+            "date": null
+        },
+        {
+            "title": " В 2027 году в Алматы намечено открытие спорткомплекса ADD PADEL ARENA",
+            "url": "https://kapital.kz/gosudarstvo/142219/v-2027-godu-v-almaty-namecheno-otkrytie-sportkompleksa-add-padel-arena.html",
+            "date": null
+        },
+        {
+            "title": "Касым-Жомарт Токаев посетит Россию с госвизитом 11 и 12 ноября ",
+            "url": "https://kapital.kz/gosudarstvo/142218/kasym-zhomart-tokaev-posetit-rossiyu-s-gosvizitom-11-i-12-noyabrya.html",
+            "date": null
+        },
+        {
+            "title": "Европа остается для Казахстана главным экспортным направлением",
+            "url": "https://kapital.kz/economic/142217/evropa-ostaetsya-dlya-kazahstana-glavnym-eksportnym-napravleniem.html",
+            "date": null
+        },
+        {
+            "title": "Использовать излишки пенсионных накоплений предлагают по-новому ",
+            "url": "https://kapital.kz/finance/142216/ispolzovat-izlishki-pensionnyh-nakoplenij-predlagayut-po-novomu.html",
+            "date": null
+        },
+        {
+            "title": "ПРООН выделит $2 млн на развитие устойчивого земледелия на севере Казахстана",
+            "url": "https://kapital.kz/economic/142214/proon-vydelit-dollar2-mln-na-razvitie-ustojchivogo-zemledeliya-na-severe-kazahstana.html",
+            "date": null
+        },
+        {
+            "title": "Президент принял первого зампредседателя Правительства Российской Федерации",
+            "url": "https://kapital.kz/gosudarstvo/142213/prezident-prinyal-pervogo-zampredsedatelya-pravitelstva-rossijskoj-federacii.html",
+            "date": null
+        },
+        {
+            "title": "Стала известна мощность завода по производству авиатоплива SAF в Казахстане ",
+            "url": "https://kapital.kz/economic/142212/stala-izvestna-moshnost-zavoda-po-proizvodstvu-aviatopliva-saf-v-kazahstane.html",
+            "date": null
+        },
+        {
+            "title": "Эксперты ожидают сохранения текущей жесткой монетарной политики",
+            "url": "https://kapital.kz/finance/142211/eksperty-ozhidayut-sohraneniya-tekushej-zhestkoj-monetarnoj-politiki.html",
+            "date": null
+        },
+        {
+            "title": "На АНПЗ возобновили выпуск сжиженного нефтяного газа",
+            "url": "https://kapital.kz/economic/142210/na-anpz-vozobnovili-vypusk-szhizhennogo-neftyanogo-gaza.html",
+            "date": null
+        },
+        {
+            "title": "Bereke Bank запустил лучшие валютные курсы для бизнеса",
+            "url": "https://kapital.kz/finance/142207/bereke-bank-zapustil-luchshie-valyutnye-kursy-dlya-biznesa.html",
+            "date": null
+        },
+        {
+            "title": "Казахстанские AI-разработки выявили более 15 тысяч дропперских счетов ",
+            "url": "https://kapital.kz/tehnology/142208/kazahstanskie-ai-razrabotki-vyyavili-bolee-15-tysyach-dropperskih-schetov.html",
+            "date": null
+        }
+    ]
+}

@@ -1,0 +1,371 @@
+{
+    "site_name": "QazInform",
+    "url": "https://qazinform.com/lenta?page=1",
+    "scraper_file": "QazInform_scraper.json",
+    "saved_from_rules": [
+        "rule_a9bb",
+        "rule_y7ni",
+        "rule_819l"
+    ],
+    "mapping": {
+        "rule_y7ni": "url",
+        "rule_a9bb": "date",
+        "rule_819l": "title",
+        "rule_tcj2": "other",
+        "rule_uy6f": "other",
+        "rule_7b2l": "other"
+    },
+    "filter": null,
+    "items": [
+        {
+            "title": "Kazakh Weightlifter secures  three golds at 2025 Islamic Solidarity Games",
+            "url": "http://qazinform.com/news/kazakh-weightlifter-secures-three-golds-at-2025-islamic-solidarity-games-52c931",
+            "date": null
+        },
+        {
+            "title": "Kassym-Jomart Tokayev, Vladimir Putin begin informal talks at Kremlin",
+            "url": "http://qazinform.com/news/kassym-jomart-tokayev-vladimir-putin-begin-informal-talks-at-kremlin-9ecbd4",
+            "date": null
+        },
+        {
+            "title": "Meghan Markle shows how to celebrate Christmas like royalty",
+            "url": "http://qazinform.com/news/meghan-markle-shows-how-to-celebrate-christmas-like-royalty-c6dc54",
+            "date": null
+        },
+        {
+            "title": "Kassym-Jomart Tokayev offers condolences to President of Türkiye",
+            "url": "http://qazinform.com/news/kassym-jomart-tokayev-offers-condolences-to-president-of-trkiye-eec5ab",
+            "date": null
+        },
+        {
+            "title": "New Lebanese Ambassador presents copies of credentials at Kazakh MFA",
+            "url": "http://qazinform.com/news/new-lebanese-ambassador-presents-copies-of-credentials-at-kazakh-mfa-e97eab",
+            "date": null
+        },
+        {
+            "title": "Ex-Korean President denies allegations of interfering in Marine death probe",
+            "url": "http://qazinform.com/news/ex-korean-president-denies-allegations-of-interfering-in-marine-death-probe-647d70",
+            "date": null
+        },
+        {
+            "title": "Tokayev and Putin to hold informal meeting at Kremlin on November 11",
+            "url": "http://qazinform.com/news/tokayev-and-putin-to-hold-informal-meeting-at-kremlin-on-november-11-213d21",
+            "date": null
+        },
+        {
+            "title": "Turkish military cargo aircraft crashes in Georgia",
+            "url": "http://qazinform.com/news/turkish-military-cargo-aircraft-crashes-in-georgia-461ac3",
+            "date": null
+        },
+        {
+            "title": "UAE ranks among global leaders in digital-asset regulation",
+            "url": "http://qazinform.com/news/uae-ranks-among-global-leaders-in-digital-asset-regulation-00b353",
+            "date": null
+        },
+        {
+            "title": "Uzbekistan officially submits documents to join Vienna Convention",
+            "url": "http://qazinform.com/news/uzbekistan-officially-submits-documents-to-join-vienna-convention-adfb90",
+            "date": null
+        },
+        {
+            "title": "Kazakh Government appoints new Vice Minister of Energy",
+            "url": "http://qazinform.com/news/kazakh-government-appoints-new-vice-minister-of-energy-d7a5ef",
+            "date": null
+        },
+        {
+            "title": "President Tokayev speaks with MGIMO students in Kazakh",
+            "url": "http://qazinform.com/news/president-tokayev-speaks-with-mgimo-students-in-kazakh-4e0d5d",
+            "date": null
+        },
+        {
+            "title": "Kazakhstani esports player ‘molodoy’ becomes MVP at international tournament",
+            "url": "http://qazinform.com/news/kazakhstani-esports-player-molodoy-becomes-mvp-at-international-tournament-cacebe",
+            "date": null
+        },
+        {
+            "title": "Kassym-Jomart Tokayev arrives in Moscow for state visit",
+            "url": "http://qazinform.com/news/kassym-jomart-tokayev-arrives-in-moscow-for-state-visit-60a020",
+            "date": null
+        },
+        {
+            "title": "Vietnam overtakes South Korea in instant noodle consumption",
+            "url": "http://qazinform.com/news/vietnam-overtakes-south-korea-in-instant-noodle-consumption-ec8435",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan-Russia trade and economic cooperation highly multifaceted — Kremlin",
+            "url": "http://qazinform.com/news/kazakhstan-russia-trade-and-economic-cooperation-highly-multifaceted-kremlin-a856ed",
+            "date": null
+        },
+        {
+            "title": "Islamic Solidarity Games: Kazakh weightlifter clinches 2 bronze medals",
+            "url": "http://qazinform.com/news/islamic-solidarity-games-kazakh-weightlifter-clinches-2-bronze-medals-003616",
+            "date": null
+        },
+        {
+            "title": "KazISS survey shows majority of citizens confident in Kazakhstan’s political direction",
+            "url": "http://qazinform.com/news/kaziss-survey-shows-majority-of-citizens-confident-in-kazakhstans-political-direction-af4b5a",
+            "date": null
+        },
+        {
+            "title": "Eternal friendship: Square symbolizing Kazakh-Russian ties inaugurated in Moscow",
+            "url": "http://qazinform.com/news/eternal-friendship-square-symbolizing-kazakh-russian-ties-inaugurated-in-moscow-a32f57",
+            "date": null
+        },
+        {
+            "title": "A “demon-horned” bee discovered in Australia",
+            "url": "http://qazinform.com/news/a-demon-horned-bee-discovered-in-australia-6ebcfe",
+            "date": null
+        },
+        {
+            "title": "Russian Su-35 fighter jets escort President Tokayev’s plane ahead of Moscow visit",
+            "url": "http://qazinform.com/news/russian-su-35-fighter-jets-escort-president-tokayevs-plane-ahead-of-moscow-visit-0d086d",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan, Israel sign memo to foster water cooperation",
+            "url": "http://qazinform.com/news/kazakhstan-israel-sign-memo-to-foster-water-cooperation-a933df",
+            "date": null
+        },
+        {
+            "title": "Canada loses measles-free status after year of continuous transmission",
+            "url": "http://qazinform.com/news/canada-loses-measles-free-status-after-year-of-continuous-transmission-2abc4c",
+            "date": null
+        },
+        {
+            "title": "Abai region to build 6 reservoirs",
+            "url": "http://qazinform.com/news/abai-region-to-build-6-reservoirs-d65c51",
+            "date": null
+        },
+        {
+            "title": "Kazakh President appoints new ambassadors to Bahrain and Congo Republic",
+            "url": "http://qazinform.com/news/kazakh-president-appoints-new-ambassadors-to-bahrain-and-congo-republic-2bbf65",
+            "date": null
+        },
+        {
+            "title": "Why Switzerland is home to more millionaires per capita than anywhere else",
+            "url": "http://qazinform.com/news/why-switzerland-is-home-to-more-millionaires-per-capita-than-anywhere-else-7900d0",
+            "date": null
+        },
+        {
+            "title": "Large meat processing plant to be launched in Abai region in 2026",
+            "url": "http://qazinform.com/news/large-meat-processing-plant-to-be-launched-in-abai-region-in-2026-63e79e",
+            "date": null
+        },
+        {
+            "title": "Uzbekistan to host Chinese Culture Days",
+            "url": "http://qazinform.com/news/uzbekistan-to-host-chinese-culture-days-153129",
+            "date": null
+        },
+        {
+            "title": "Kazakh PM Bektenov urges to modernize geological exploration amid technology push",
+            "url": "http://qazinform.com/news/kazakh-pm-bektenov-urges-to-modernize-geological-exploration-amid-technology-push-c03d9f",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan’s Abai Region to get its own gold processing plant",
+            "url": "http://qazinform.com/news/kazakhstans-abai-region-to-get-its-own-gold-processing-plant-62fce9",
+            "date": null
+        },
+        {
+            "title": "Astana to launch construction of geological research lab in 2026",
+            "url": "http://qazinform.com/news/astana-to-launch-construction-of-geological-research-lab-in-2026-6ff86f",
+            "date": null
+        },
+        {
+            "title": "David Szalay awarded Booker Prize for “Flesh”",
+            "url": "http://qazinform.com/news/david-szalay-awarded-booker-prize-for-flesh-d765aa",
+            "date": null
+        },
+        {
+            "title": "Kazakh government doubles funding for Abai region",
+            "url": "http://qazinform.com/news/kazakh-government-doubles-funding-for-abai-region-6d5b99",
+            "date": null
+        },
+        {
+            "title": "Agricultural output rises in Kazakhstan in Q3",
+            "url": "http://qazinform.com/news/agricultural-output-rises-in-kazakhstan-in-q3-623daf",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan to launch national digital repository for geological data",
+            "url": "http://qazinform.com/news/kazakhstan-to-launch-national-digital-repository-for-geological-data-70da44",
+            "date": null
+        },
+        {
+            "title": "Trump vs. BBC: U.S. President threatens $1B lawsuit over edited speech segment",
+            "url": "http://qazinform.com/news/trump-vs-bbc-us-president-threatens-1b-lawsuit-over-edited-speech-segment-1267da",
+            "date": null
+        },
+        {
+            "title": "Astana – Moscow: Kassym-Jomart Tokayev’s state visit to define bilateral agenda for decades ahead",
+            "url": "http://qazinform.com/news/astana-moscow-kassym-jomart-tokayevs-state-visit-to-define-bilateral-agenda-for-decades-ahead-4a036c",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan’s Almaty Open joins tennis elite — ATP calls it one of the best",
+            "url": "http://qazinform.com/news/kazakhstans-almaty-open-joins-tennis-elite-atp-calls-it-one-of-the-best-45955d",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan attracts over $70mln worth of investment to exploration for next 6 years",
+            "url": "http://qazinform.com/news/kazakhstan-attracts-over-70mln-worth-of-investment-to-exploration-for-next-6-years-537453",
+            "date": null
+        },
+        {
+            "title": "Kazakh MFA names new Ambassador-at-Large",
+            "url": "http://qazinform.com/news/zulfiya-suleimenova-named-ambassador-at-large-fa9c9f",
+            "date": null
+        },
+        {
+            "title": "Public confidence in President Tokayev reaches 86%, survey finds",
+            "url": "http://qazinform.com/news/public-confidence-in-president-tokayev-reaches-86-survey-finds-7cf6be",
+            "date": null
+        },
+        {
+            "title": "Over 31,000 students to develop professional skills in specialized school classes — Kazakh Ministry of Education",
+            "url": "http://qazinform.com/news/over-31000-students-to-develop-professional-skills-in-specialized-school-classes-kazakh-ministry-of-education-6d5518",
+            "date": null
+        },
+        {
+            "title": "Rodrigo Paz sworn in as new president of Bolivia",
+            "url": "http://qazinform.com/news/rodrigo-paz-sworn-in-as-new-president-of-bolivia-cd7b8c",
+            "date": null
+        },
+        {
+            "title": "U.S. Senate votes to end record government shutdown",
+            "url": "http://qazinform.com/news/us-senate-votes-to-end-record-government-shutdown-dea4af",
+            "date": null
+        },
+        {
+            "title": "President Tokayev congratulates Karol Nawrocki on Poland’s Independence Day",
+            "url": "http://qazinform.com/news/president-tokayev-congratulates-karol-nawrocki-on-polands-independence-day-e3d65d",
+            "date": null
+        },
+        {
+            "title": "Uzbekistan sees sharp rise in tourist flows to Qatar",
+            "url": "http://qazinform.com/news/uzbekistan-sees-sharp-rise-in-tourist-flows-to-qatar-7bda64",
+            "date": null
+        },
+        {
+            "title": "Tokayev’s state visit to Russia: Eternal friendship is a guiding star for our peoples, says Kazakh President",
+            "url": "http://qazinform.com/news/tokayevs-state-visit-to-russia-eternal-friendship-is-a-guiding-star-for-our-peoples-says-kazakh-president-d36d16",
+            "date": null
+        },
+        {
+            "title": "S. Korea's exports up 6.4 pct during first 10 days of Nov. on robust chip, auto demand",
+            "url": "http://qazinform.com/news/s-koreas-exports-up-64-pct-during-first-10-days-of-nov-on-robust-chip-auto-demand-977038",
+            "date": null
+        },
+        {
+            "title": "Makkah Clock Tower Museum to launch audio guide in Kazakh language",
+            "url": "http://qazinform.com/news/makkah-clock-tower-museum-to-launch-audio-guide-in-kazakh-language-eb99b7",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan’s swimmer Aibat Myrzamuratov racks up another medal at Islamic Games",
+            "url": "http://qazinform.com/news/kazakhstans-swimmer-aibat-myrzamuratov-racks-up-another-medal-at-islamic-games-fced84",
+            "date": null
+        },
+        {
+            "title": "Polish found to be most effective language for prompting AI, Microsoft study shows",
+            "url": "http://qazinform.com/news/polish-found-to-be-most-effective-language-for-prompting-ai-microsoft-study-shows-23b2f1",
+            "date": null
+        },
+        {
+            "title": "Japan logs record 17.51 tril. yen current account surplus in April-Sept.",
+            "url": "http://qazinform.com/news/japan-logs-record-1751-tril-yen-current-account-surplus-in-april-sept-bd8ed9",
+            "date": null
+        },
+        {
+            "title": "Islamic Solidarity Games: Kazakhstan claims men's team table tennis gold",
+            "url": "http://qazinform.com/news/islamic-solidarity-games-kazakhstan-claims-mens-team-table-tennis-gold-522fb4",
+            "date": null
+        },
+        {
+            "title": "Car explosion kills 8, injures 15 others in Indian capital New Delhi near historic Red Fort",
+            "url": "http://qazinform.com/news/car-explosion-kills-8-injures-15-others-in-indian-capital-new-delhi-near-historic-red-fort-522f2a",
+            "date": null
+        },
+        {
+            "title": "Former French president Sarkozy released from prison to serve sentence at home",
+            "url": "http://qazinform.com/news/former-french-president-sarkozy-released-from-prison-to-serve-sentence-at-home-68e29a",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan-France Association Chairman honored with Dostyq Order",
+            "url": "http://qazinform.com/news/kazakhstan-france-association-chairman-honored-with-dostyq-order-355159",
+            "date": null
+        },
+        {
+            "title": "Nearly 15,000 libraries serve over 12 million readers in Uzbekistan",
+            "url": "http://qazinform.com/news/nearly-15000-libraries-serve-over-12-million-readers-in-uzbekistan-8f996c",
+            "date": null
+        },
+        {
+            "title": "Scientists identify main driver of early-stage lung cancer development",
+            "url": "http://qazinform.com/news/scientists-identify-main-driver-of-early-stage-lung-cancer-development-615ed3",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan’s weightlifter Yedyge Yemberdy claims 3 medals at Islamic Solidarity Games",
+            "url": "http://qazinform.com/news/kazakhstans-weightlifter-yedyge-yemberdy-claims-3-medals-at-islamic-solidarity-games-73a0fa",
+            "date": null
+        },
+        {
+            "title": "National Guard’s Turumbetov shines at Sambo World Championships",
+            "url": "http://qazinform.com/news/national-guards-turumbetov-shines-at-sambo-world-championships-20245d",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan plans to send humanitarian aid to quate-hit Afghanistan",
+            "url": "http://qazinform.com/news/kazakhstan-plans-to-send-humanitarian-aid-to-quate-hit-afghanistan-45f2de",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan joined 13th Global Video Media Forum in Xi'an",
+            "url": "http://qazinform.com/news/kazakhstan-joined-13th-global-video-media-forum-in-xian-ef88b1",
+            "date": null
+        },
+        {
+            "title": "5th Hajj Conference and Exhibition opens in Jeddah under Royal patronage",
+            "url": "http://qazinform.com/news/5th-hajj-conference-and-exhibition-opens-in-jeddah-under-royal-patronage-ccc815",
+            "date": null
+        },
+        {
+            "title": "The Washington Post highlights Kazakhstan’s strategic move to join Abraham Accords",
+            "url": "http://qazinform.com/news/the-washington-post-highlights-kazakhstans-strategic-move-to-join-abraham-accords-901003",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan recovers KZT112bln in funds after state audits",
+            "url": "http://qazinform.com/news/kazakhstan-recovers-kzt112bln-in-funds-after-audits-b61784",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan privileged partner of Russia — Kremlin",
+            "url": "http://qazinform.com/news/kazakhstan-privileged-partner-of-russia-kremlin-9c0f83",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan’s economy grows 6.4% in 10 months",
+            "url": "http://qazinform.com/news/kazakhstans-economy-grows-64-in-10-months-5ce321",
+            "date": null
+        },
+        {
+            "title": "Kyrgyzstan elected to UNESCO Executive Board until 2029",
+            "url": "http://qazinform.com/news/kyrgyzstan-elected-to-unesco-executive-board-until-2029-d9ef2b",
+            "date": null
+        },
+        {
+            "title": "CSTO States to agree on priorities for personnel training, armament, industrial cooperation in Astana",
+            "url": "http://qazinform.com/news/csto-states-to-agree-on-priorities-for-personnel-training-armament-industrial-cooperation-in-astana-0e66cd",
+            "date": null
+        },
+        {
+            "title": "Gennady Golovkin meets with Prince Abdulaziz Bin Turki Bin Faisal to expand sports collaboration",
+            "url": "http://qazinform.com/news/gennady-golovkin-meets-with-his-royal-highness-prince-abdulaziz-bin-turki-bin-faisal-al-saud-to-expand-sports-collaboration-7a8f98",
+            "date": null
+        }
+    ]
+}

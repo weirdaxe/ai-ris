@@ -1,0 +1,268 @@
+{
+    "site_name": "AstanaTimes",
+    "url": "https://astanatimes.com/all/page/1/",
+    "scraper_file": "AstanaTimes_scraper.json",
+    "saved_from_rules": [
+        "rule_sfc5",
+        "rule_pbwr"
+    ],
+    "mapping": {
+        "rule_pbwr": "url",
+        "rule_sfc5": "title",
+        "rule_ysao": "other",
+        "rule_xg9w": "other"
+    },
+    "filter": null,
+    "items": [
+        {
+            "title": "Time for Washington to Recognize Central Asia’s Strategic Value, Experts Say",
+            "url": "https://astanatimes.com/2025/11/time-for-washington-to-recognize-central-asias-strategic-value-experts-say/",
+            "date": null
+        },
+        {
+            "title": "Dimash Qudaibergen Champions Peace and Love Ahead of London Concert at OVO Arena Wembley",
+            "url": "https://astanatimes.com/2025/11/dimash-qudaibergen-champions-peace-and-love-ahead-of-london-concert-at-ovo-arena-wembley/",
+            "date": null
+        },
+        {
+            "title": "Central Asian Agriculture Ministers Sign Joint Declaration and Food Security Plan Through 2030",
+            "url": "https://astanatimes.com/2025/11/central-asian-agriculture-ministers-sign-joint-declaration-and-food-security-plan-through-2030/",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan, US Enter New Phase of Strategic Partnership, Experts Say",
+            "url": "https://astanatimes.com/2025/11/kazakhstan-us-enter-new-phase-of-strategic-partnership-experts-say/",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan to Send Humanitarian Mission to Afghanistan Following Devastating Earthquakes",
+            "url": "https://astanatimes.com/2025/11/kazakhstan-to-send-humanitarian-mission-to-afghanistan-following-devastating-earthquakes/",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan, American LanzaJet to Partner on Sustainable Aviation Fuel Plant in Kostanai Region",
+            "url": "https://astanatimes.com/2025/11/kazakhstan-american-lanzajet-to-partner-on-sustainable-aviation-fuel-plant-in-kostanai-region/",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan Attracts Over $70 Million in Exploration Investment",
+            "url": "https://astanatimes.com/2025/11/kazakhstan-attracts-over-70-million-in-exploration-investment/",
+            "date": null
+        },
+        {
+            "title": "Power, Minerals, and Meaning: Decoding What Trump 2.0 Wants in Central Asia",
+            "url": "https://astanatimes.com/2025/11/power-minerals-and-meaning-decoding-what-trump-2-0-wants-in-central-asia/",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan’s Economy Expands 6.4% in Ten Months",
+            "url": "https://astanatimes.com/2025/11/kazakhstans-economy-expands-6-4-in-ten-months/",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan Strengthens Ties with Singaporean Investors at AIFC Connect 2025",
+            "url": "https://astanatimes.com/2025/11/kazakhstan-strengthens-ties-with-singaporean-investors-at-aifc-connect-2025/",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan’s Assets Shine as Global Investors Seek New Frontiers",
+            "url": "https://astanatimes.com/2025/11/kazakhstans-assets-shine-as-global-investors-seek-new-frontiers/",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan Rides Golden Wave of Sporting Achievements on Global Stage",
+            "url": "https://astanatimes.com/2025/11/kazakhstan-rides-golden-wave-of-sporting-achievements-on-global-stage/",
+            "date": null
+        },
+        {
+            "title": "Almaty Unveils Monumental Mural Honoring UN’s 80th Anniversary",
+            "url": "https://astanatimes.com/2025/11/almaty-unveils-monumental-mural-honoring-uns-80th-anniversary/",
+            "date": null
+        },
+        {
+            "title": "Almaty to Host Central Asia’s Most Advanced Padel Facility by 2027",
+            "url": "https://astanatimes.com/2025/11/almaty-to-host-central-asias-most-advanced-padel-facility-by-2027/",
+            "date": null
+        },
+        {
+            "title": "Almaty to Create Its Digital Twin to Modernize Urban Management by 2026",
+            "url": "https://astanatimes.com/2025/11/almaty-to-create-its-digital-twin-to-modernize-urban-management-by-2026/",
+            "date": null
+        },
+        {
+            "title": "European Training Foundation Director Talks Skills Development, Engagement with Central Asia",
+            "url": "https://astanatimes.com/2025/11/european-training-foundation-director-talks-skills-development-engagement-with-central-asia/",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan Tops ICAO Safety Standards with 95.7% Compliance",
+            "url": "https://astanatimes.com/2025/11/kazakhstan-tops-icao-safety-standards-with-95-7-compliance/",
+            "date": null
+        },
+        {
+            "title": "Kazakh Tennis Star Rybakina Secures Historic WTA Finals Win",
+            "url": "https://astanatimes.com/2025/11/kazakh-tennis-star-rybakina-secures-historic-wta-finals-win/",
+            "date": null
+        },
+        {
+            "title": "190 Years On, Shokan Ualikhanov Still Lights Our Path",
+            "url": "https://astanatimes.com/2025/11/190-years-on-shokan-ualikhanov-still-lights-our-path/",
+            "date": null
+        },
+        {
+            "title": "Persian Chronicles Reveal Forgotten Ties Between Iran and Kazakh Steppes",
+            "url": "https://astanatimes.com/2025/11/persian-chronicles-reveal-forgotten-ties-between-iran-and-kazakh-steppes/",
+            "date": null
+        },
+        {
+            "title": "Central Asia and US Reaffirm Commitment to Economic Cooperation",
+            "url": "https://astanatimes.com/2025/11/central-asia-and-us-reaffirm-commitment-to-economic-cooperation/",
+            "date": null
+        },
+        {
+            "title": "News Digest: Foreign Media on C5+1 Summit, Kazakhstan’s Accession to Abraham Accords, EU Cooperation and More",
+            "url": "https://astanatimes.com/2025/11/news-digest-foreign-media-on-c51-summit-kazakhstans-accession-to-abraham-accords-eu-cooperation-and-more/",
+            "date": null
+        },
+        {
+            "title": "Central Asia and US Pledge to Safeguard Cultural Heritage",
+            "url": "https://astanatimes.com/2025/11/central-asia-and-us-pledge-to-safeguard-cultural-heritage/",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan to Welcome First Amur Tigers from Russia in 2026",
+            "url": "https://astanatimes.com/2025/11/kazakhstan-to-welcome-first-amur-tigers-from-russia-in-2026/",
+            "date": null
+        },
+        {
+            "title": "Kazakh MFA Confirms Kazakhstan’s Accession to Abraham Accords After Trump–Tokayev Talks",
+            "url": "https://astanatimes.com/2025/11/kazakh-mfa-confirms-kazakhstans-accession-to-abraham-accords-after-trump-tokayev-talks/",
+            "date": null
+        },
+        {
+            "title": "Tokayev Advances Industrial, Energy Cooperation with US Partners in Washington",
+            "url": "https://astanatimes.com/2025/11/tokayev-advances-industrial-energy-cooperation-with-us-partners-in-washington/",
+            "date": null
+        },
+        {
+            "title": "$17 Billion Signed in Washington, Here’s Where It’s Going",
+            "url": "https://astanatimes.com/2025/11/17-billion-signed-in-washington-heres-where-its-going/",
+            "date": null
+        },
+        {
+            "title": "Trump Hints at Possible Visit to Kazakhstan",
+            "url": "https://astanatimes.com/2025/11/trump-hints-at-possible-visit-to-kazakhstan/",
+            "date": null
+        },
+        {
+            "title": "US Congress Moves to Repeal Jackson-Vanik, Expand Trade with Central Asia",
+            "url": "https://astanatimes.com/2025/11/us-congress-moves-to-repeal-jackson-vanik-expand-trade-with-central-asia/",
+            "date": null
+        },
+        {
+            "title": "Tokayev Meets Kazakh IT Startups in Washington Worth $1.4 Billion",
+            "url": "https://astanatimes.com/2025/11/tokayev-meets-kazakh-it-startups-in-washington-worth-1-4-billion/",
+            "date": null
+        },
+        {
+            "title": "Tokayev, Trump Deepen Ties With $17 Billion Agreements",
+            "url": "https://astanatimes.com/2025/11/tokayev-trump-deepen-ties-with-17-billion-agreements/",
+            "date": null
+        },
+        {
+            "title": "Tokayev Hails New Era in US-Central Asia Ties at White House Summit",
+            "url": "https://astanatimes.com/2025/11/tokayev-hails-new-era-in-us-central-asia-ties-at-white-house-summit/",
+            "date": null
+        },
+        {
+            "title": "Brett King: AI Revolution Will End Capitalism as We Know It",
+            "url": "https://astanatimes.com/2025/11/brett-king-ai-revolution-will-end-capitalism-as-we-know-it/",
+            "date": null
+        },
+        {
+            "title": "Digitizing Trade Could Boost Kazakhstan’s Turnover 15%, EU-Backed Study Finds",
+            "url": "https://astanatimes.com/2025/11/digitizing-trade-could-boost-kazakhstans-turnover-15-eu-backed-study-finds/",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan, US Sign Landmark Memorandum on Critical Minerals Cooperation",
+            "url": "https://astanatimes.com/2025/11/kazakhstan-us-sign-landmark-memorandum-on-critical-minerals-cooperation/",
+            "date": null
+        },
+        {
+            "title": "Season of Savoring: Curated Autumn Weekend in Culture",
+            "url": "https://astanatimes.com/2025/11/season-of-savoring-curated-autumn-weekend-in-culture/",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan Showcases Capital Market Potential at Bloomberg’s London Headquarters",
+            "url": "https://astanatimes.com/2025/11/kazakhstan-showcases-capital-market-potential-at-bloombergs-london-headquarters/",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan, China Ink Deal on Digital Exports at Shanghai Expo 2025",
+            "url": "https://astanatimes.com/2025/11/kazakhstan-china-ink-deal-on-digital-exports-at-shanghai-expo-2025/",
+            "date": null
+        },
+        {
+            "title": "Experts Assess Stakes as Central Asia–US Summit Kicks Off in Washington D.C.",
+            "url": "https://astanatimes.com/2025/11/experts-assess-stakes-as-central-asia-us-summit-kicks-off-in-washington-d-c/",
+            "date": null
+        },
+        {
+            "title": "Almaty’s FC Kairat Impresses Crowds Despite 1:2 Defeat to Inter Milan",
+            "url": "https://astanatimes.com/2025/11/almatys-fc-kairat-impresses-crowds-despite-12-defeat-to-inter-milan/",
+            "date": null
+        },
+        {
+            "title": "Kazakh National Bank and Visa Sign First Agreement Under C5+1 Summit Framework",
+            "url": "https://astanatimes.com/2025/11/kazakh-national-bank-and-visa-sign-first-agreement-under-c51-summit-framework/",
+            "date": null
+        },
+        {
+            "title": "US Secretary of State Rubio Hosts Reception as US and Central Asia Mark Decade of Partnership",
+            "url": "https://astanatimes.com/2025/11/u-s-secretary-of-state-rubio-hosts-reception-as-us-and-central-asia-mark-decade-of-partnership/",
+            "date": null
+        },
+        {
+            "title": "QS Asia Rankings 2026: Kazakhstan Marks Record Entry with 10 Universities",
+            "url": "https://astanatimes.com/2025/11/qs-asia-rankings-2026-kazakhstan-marks-record-entry-with-10-universities/",
+            "date": null
+        },
+        {
+            "title": "Coca-Cola İçecek to Build Fourth Plant in Kazakhstan",
+            "url": "https://astanatimes.com/2025/11/coca-cola-icecek-to-build-fourth-plant-in-kazakhstan/",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan’s Investment Growth Slows Amid Fading Base Effect, Weaker Private Sector",
+            "url": "https://astanatimes.com/2025/11/kazakhstans-investment-growth-slows-amid-fading-base-effect-weaker-private-sector/",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan Boosts Oil Exports to Germany via Druzhba Pipeline",
+            "url": "https://astanatimes.com/2025/11/kazakhstan-boosts-oil-exports-to-germany-via-druzhba-pipeline/",
+            "date": null
+        },
+        {
+            "title": "UNESCO Announces World Turkic Language Family Day Celebration",
+            "url": "https://astanatimes.com/2025/11/unesco-announces-world-turkic-language-family-day-celebration/",
+            "date": null
+        },
+        {
+            "title": "Kazakhstan’s Inflation Slows to 12.6% in October",
+            "url": "https://astanatimes.com/2025/11/kazakhstans-inflation-slows-to-12-6-in-october/",
+            "date": null
+        },
+        {
+            "title": "What to Expect from C5+1 Summit in Washington This Week",
+            "url": "https://astanatimes.com/2025/11/what-to-expect-from-c51-summit-in-washington-this-week/",
+            "date": null
+        },
+        {
+            "title": "190 Years of Shokan Ualikhanov: Kazakh Explorer Who Conquered Knowledge",
+            "url": "https://astanatimes.com/2025/11/190-years-of-shokan-ualikhanov-kazakh-explorer-who-conquered-knowledge/",
+            "date": null
+        }
+    ]
+}

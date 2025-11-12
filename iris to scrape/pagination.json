@@ -1,0 +1,38 @@
+{
+    "Kapital_kz_scrape_config.json": {
+        "page_url_template": "https://kapital.kz/news?page={page}",
+        "start_page": 1,
+        "max_pages": 10,
+        "cutoff_date": ""
+    },
+    "KazTAG_scrape_config.json": {
+        "page_url_template": "https://kaztag.kz/en/news/?PAGEN_1={page}",
+        "start_page": 1,
+        "max_pages": 5,
+        "cutoff_date": ""
+    },
+    "KapitalKZ_scrape_config.json": {
+        "page_url_template": "https://kapital.kz/news?page={page}",
+        "start_page": 1,
+        "max_pages": 7,
+        "cutoff_date": ""
+    },
+    "AstanaTimes_scrape_config.json": {
+        "page_url_template": "https://astanatimes.com/all/page/{page}/",
+        "start_page": 1,
+        "max_pages": 1,
+        "cutoff_date": ""
+    },
+    "TengriNews_scrape_config.json": {
+        "page_url_template": "https://en.tengrinews.kz/news/page/{page}/",
+        "start_page": 1,
+        "max_pages": 1,
+        "cutoff_date": ""
+    },
+    "QazInform_scrape_config.json": {
+        "page_url_template": "https://qazinform.com/lenta?page={page}",
+        "start_page": 1,
+        "max_pages": 7,
+        "cutoff_date": ""
+    }
+}

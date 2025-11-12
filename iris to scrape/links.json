@@ -1,4 +1,9 @@
 {
-    "Kapital_kz": "Kapital_kz_scrape_config.json",
-    "kapital": "kapital_scrape_config.json"
+    "Kazakhstan": [
+        "KazTAG_scrape_config.json",
+        "KapitalKZ_scrape_config.json",
+        "AstanaTimes_scrape_config.json",
+        "TengriNews_scrape_config.json",
+        "QazInform_scrape_config.json"
+    ]
 }
