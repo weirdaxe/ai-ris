@@ -1,0 +1,336 @@
+{
+    "site_name": "KazTAG",
+    "url": "https://kaztag.kz/en/news/?PAGEN_1=1",
+    "scraper_file": "KazTAG_scraper.json",
+    "saved_from_rules": [
+        "rule_4jau",
+        "rule_q4q1",
+        "rule_iffj"
+    ],
+    "mapping": {
+        "rule_iffj": "url",
+        "rule_q4q1": "date",
+        "rule_c72y": "other",
+        "rule_ev3s": "other",
+        "rule_qef7": "other",
+        "rule_4jau": "title",
+        "rule_dph1": "other",
+        "rule_geam": "other",
+        "rule_bcq4": "other",
+        "rule_6r60": "other",
+        "rule_w3nt": "other",
+        "rule_ojjr": "other",
+        "rule_duqz": "other",
+        "rule_9ryn": "other",
+        "rule_48bg": "other",
+        "rule_xvpb": "other",
+        "rule_53cb": "other",
+        "rule_b1s7": "other",
+        "rule_unue": "other",
+        "rule_d726": "other",
+        "rule_melq": "other"
+    },
+    "filter": null,
+    "items": [
+        {
+            "title": "No epidemiological outbreak in Kazakhstan – Health Ministry",
+            "url": "https://kaztag.kz/en/news/no-epidemiological-outbreak-in-kazakhstan-health-ministry",
+            "date": "2025-11-11"
+        },
+        {
+            "title": "Tokayev appoints new ambassadors to Bahrain and Congo",
+            "url": "https://kaztag.kz/en/news/tokayev-appoints-new-ambassadors-to-bahrain-and-congo",
+            "date": "2025-11-11"
+        },
+        {
+            "title": "EU sanctions envoy to visit Kazakhstan for the fifth time in three years",
+            "url": "https://kaztag.kz/en/news/eu-sanctions-envoy-to-visit-kazakhstan-for-the-fifth-time-in-three-years",
+            "date": "2025-11-11"
+        },
+        {
+            "title": "Tokayev’s plane escorted by Su-35 fighter jets over Russia",
+            "url": "https://kaztag.kz/en/news/tokayev-s-plane-escorted-by-su-35-fighter-jets-over-russia",
+            "date": "2025-11-11"
+        },
+        {
+            "title": "Card, QR code, palm: how secure is the new payment system?",
+            "url": "https://kaztag.kz/en/news/card-qr-code-palm-how-secure-is-the-new-payment-system",
+            "date": "2025-11-11"
+        },
+        {
+            "title": "Tokayev congratulated President of Poland on Independence Day",
+            "url": "https://kaztag.kz/en/news/tokayev-congratulated-president-of-poland-on-independence-day",
+            "date": "2025-11-11"
+        },
+        {
+            "title": "Renovation of Almaty orphanage after fire to be completed within three months",
+            "url": "https://kaztag.kz/en/news/renovation-of-almaty-orphanage-after-fire-to-be-completed-within-three-months",
+            "date": "2025-11-11"
+        },
+        {
+            "title": "Tokayev highlights special role of Russian language in Kazakhstan",
+            "url": "https://kaztag.kz/en/news/tokayev-highlights-special-role-of-russian-language-in-kazakhstan",
+            "date": "2025-11-11"
+        },
+        {
+            "title": "Tokayev and Putin to sign declaration on comprehensive strategic alliance",
+            "url": "https://kaztag.kz/en/news/tokayev-and-putin-to-sign-declaration-on-comprehensive-strategic-alliance",
+            "date": "2025-11-11"
+        },
+        {
+            "title": "Hundreds of soldiers have died in Kazakhstan over five years – data shows dozens of deaths in the past two years",
+            "url": "https://kaztag.kz/en/news/hundreds-of-soldiers-have-died-in-kazakhstan-over-five-years-data-shows-dozens-of-deaths-in-the-past",
+            "date": "2025-11-11"
+        },
+        {
+            "title": "Tokayev gives prosecutor general 12 days to review mothers’ appeal over soldiers’ deaths",
+            "url": "https://kaztag.kz/en/news/tokayev-gives-prosecutor-general-12-days-to-review-mothers-appeal-over-soldiers-deaths",
+            "date": "2025-11-11"
+        },
+        {
+            "title": "Public demands Almaty hippodrome be returned to state ownership",
+            "url": "https://kaztag.kz/en/news/public-demands-almaty-hippodrome-be-returned-to-state-ownership",
+            "date": "2025-11-11"
+        },
+        {
+            "title": "Gold price went up after morning interbank fixing in London",
+            "url": "https://kaztag.kz/en/news/gold-price-went-up-afffffffffvczaq1qfter-morning-interbank-fixing-in-london",
+            "date": "2025-11-11"
+        },
+        {
+            "title": "Kazakhstan’s GDP grows 6.4% within ten months – Ministry of National Economy",
+            "url": "https://kaztag.kz/en/news/kazakhstan-s-gdp-grows-6-4-within-ten-months-ministry-of-national-economy",
+            "date": "2025-11-11"
+        },
+        {
+            "title": "Tokayev to make state visit to Russia in coming days",
+            "url": "https://kaztag.kz/en/news/tokayev-to-make-state-visit-to-russia-in-coming-days",
+            "date": "2025-11-10"
+        },
+        {
+            "title": "217 million tenge intended for pregnant women stolen in Shymkent",
+            "url": "https://kaztag.kz/en/news/217-million-tenge-intended-for-pregnant-women-stolen-in-shymkent",
+            "date": "2025-11-10"
+        },
+        {
+            "title": "Protesting mother in Astana to Tokayev: Why don’t you hear the mothers’ cries?",
+            "url": "https://kaztag.kz/en/news/protesting-mother-in-astana-to-tokayev-why-don-t-you-hear-the-mothers-cries",
+            "date": "2025-11-10"
+        },
+        {
+            "title": "Emergency headquarters imposed after fire at Almaty orphanage",
+            "url": "https://kaztag.kz/en/news/emergency-headquarters-imposed-after-fire-at-almaty-orphanage",
+            "date": "2025-11-10"
+        },
+        {
+            "title": "World oil prices up",
+            "url": "https://kaztag.kz/en/news/world-oil-prdddde32ices-up",
+            "date": "2025-11-10"
+        },
+        {
+            "title": "Over 20,000 cubic meters of snow were removed from Astana overnight",
+            "url": "https://kaztag.kz/en/news/over-20-000-cubic-meters-of-snow-were-removed-from-astana-overnight",
+            "date": "2025-11-10"
+        },
+        {
+            "title": "Kazakhstan joins Abraham Accords",
+            "url": "https://kaztag.kz/en/news/kazakhstan-joins-abraham-accords",
+            "date": "2025-11-10"
+        },
+        {
+            "title": "Mothers of fallen soldiers went on rally in Astana",
+            "url": "https://kaztag.kz/en/news/mothers-of-fallen-soldiers-went-on-rally-in-astana",
+            "date": "2025-11-10"
+        },
+        {
+            "title": "Major fire in Almaty administrative building extinguished",
+            "url": "https://kaztag.kz/en/news/major-fire-in-almaty-administrative-building-extinguished",
+            "date": "2025-11-10"
+        },
+        {
+            "title": "Gold price went down after morning interbank fixing in London",
+            "url": "https://kaztag.kz/en/news/gold-price-went-down-after-morning-interbank-fixing-in-london",
+            "date": "2025-11-10"
+        },
+        {
+            "title": "Drug supply channel worth KZT 3.1 billion blocked in Kazakhstan",
+            "url": "https://kaztag.kz/en/news/drug-supply-channel-worth-kzt-3-1-billion-blocked-in-kazakhstan",
+            "date": "2025-11-10"
+        },
+        {
+            "title": "Kazakhstan reaches 95.7% ICAO compliance in aviation safety",
+            "url": "https://kaztag.kz/en/news/kazakhstan-reaches-95-7-icao-compliance-in-aviation-safety",
+            "date": "2025-11-10"
+        },
+        {
+            "title": "Kazakhstan rejects Russia’s proposal to cut meat import duties within EAEU",
+            "url": "https://kaztag.kz/en/news/kazakhstan-rejects-russia-s-proposal-to-cut-meat-import-duties-within-eaeu",
+            "date": "2025-11-10"
+        },
+        {
+            "title": "World oil prices down",
+            "url": "https://kaztag.kz/en/news/world-oil-prices-dddd2down",
+            "date": "2025-11-07"
+        },
+        {
+            "title": "Gold price went down after morning interbank fixing in London",
+            "url": "https://kaztag.kz/en/news/gold-price-wefffffffffff2nt-down-after-morning-interbank-fixing-in-london",
+            "date": "2025-11-07"
+        },
+        {
+            "title": "Tokayev takes part in the “Central Asia – United States” Summit",
+            "url": "https://kaztag.kz/en/news/tokayev-takes-part-in-the-central-asia-united-states-summit",
+            "date": "2025-11-07"
+        },
+        {
+            "title": "Presidents of Kazakhstan and the United States and the Prime Minister of Israel hold a joint phone conversation",
+            "url": "https://kaztag.kz/en/news/presidents-of-kazakhstan-and-the-united-states-and-the-prime-minister-of-israel-hold-a-joint-phone-c",
+            "date": "2025-11-07"
+        },
+        {
+            "title": "Negotiations of Tokayev and Trump lasted for 40 minutes",
+            "url": "https://kaztag.kz/en/news/negotiations-of-tokayev-and-trump-lasted-for-40-minutes",
+            "date": "2025-11-07"
+        },
+        {
+            "title": "President Kassym-Jomart Tokayev holds meeting with members of the U.S. Congress",
+            "url": "https://kaztag.kz/en/news/president-kassym-jomart-tokayev-holds-meeting-with-members-of-the-u-s-congress",
+            "date": "2025-11-07"
+        },
+        {
+            "title": "Trump doesn't rule out visiting Kazakhstan",
+            "url": "https://kaztag.kz/en/news/trump-doesn-t-rule-out-visiting-kazakhstan",
+            "date": "2025-11-07"
+        },
+        {
+            "title": "Tokayev introduced to Kazakhstani IT startups in the US",
+            "url": "https://kaztag.kz/en/news/tokayev-introduced-to-kazakhstani-it-startups-in-the-us",
+            "date": "2025-11-07"
+        },
+        {
+            "title": "Organizers of PokStars and LuckyShark online casinos sentenced in Almaty",
+            "url": "https://kaztag.kz/en/news/organizers-of-pokstars-and-luckyshark-online-casinos-sentenced-in-almaty",
+            "date": "2025-11-07"
+        },
+        {
+            "title": "Kazakhstan's Agency for Protection and Development of Competition accused Eurasian Bank of unfair competition.",
+            "url": "https://kaztag.kz/en/news/kazakhstan-s-agency-for-protection-and-development-of-competition-accused-eurasian-bank-of-unfair-co",
+            "date": "2025-11-07"
+        },
+        {
+            "title": "Tokayev met with Rubio and other representatives of the Trump administration",
+            "url": "https://kaztag.kz/en/news/tokayev-met-with-rubio-and-other-representatives-of-the-trump-administration",
+            "date": "2025-11-07"
+        },
+        {
+            "title": "Kazakhstan and the US signed memorandum on critical minerals",
+            "url": "https://kaztag.kz/en/news/kazakhstan-and-the-us-signed-memorandum-on-critical-minerals",
+            "date": "2025-11-07"
+        },
+        {
+            "title": "Tokayev is to meet with Trump",
+            "url": "https://kaztag.kz/en/news/tokayev-is-to-meet-with-trump-",
+            "date": "2025-11-07"
+        },
+        {
+            "title": "Kazakhstan sent wheat to Armenia for the first time within 30 years",
+            "url": "https://kaztag.kz/en/news/kazakhstan-sent-wheat-to-armenia-for-the-first-time-within-30-years",
+            "date": "2025-11-06"
+        },
+        {
+            "title": "Sentenced reduced for convicted nuclear power plant opponents in Kazakhstan",
+            "url": "https://kaztag.kz/en/news/sentenced-reduced-for-convicted-nuclear-power-plant-opponents-in-kazakhstan-",
+            "date": "2025-11-06"
+        },
+        {
+            "title": "Over 110,000 children have sought help through contact center in Kazakhstan",
+            "url": "https://kaztag.kz/en/news/over-110-000-children-have-sought-help-through-contact-center-in-kazakhstan",
+            "date": "2025-11-06"
+        },
+        {
+            "title": "Drug trafficking channel dismantled in Shymkent",
+            "url": "https://kaztag.kz/en/news/drug-trafficking-channel-dismantled-in-shymkent",
+            "date": "2025-11-06"
+        },
+        {
+            "title": "Almazbek Sadyrbay appeals to president using AI",
+            "url": "https://kaztag.kz/en/news/almazbek-sadyrbay-appeals-to-president-using-ai",
+            "date": "2025-11-06"
+        },
+        {
+            "title": "LGBTQ activists in Almaty report growing hatred",
+            "url": "https://kaztag.kz/en/news/lgbtq-activists-in-almaty-report-growing-hatred",
+            "date": "2025-11-06"
+        },
+        {
+            "title": "World oil prices down",
+            "url": "https://kaztag.kz/en/news/-world-ddddddddddwwwsoil-prices-down",
+            "date": "2025-11-06"
+        },
+        {
+            "title": "Tokayev expressed condolences to Philippine president",
+            "url": "https://kaztag.kz/en/news/tokayev-expressed-condolences-to-philippine-president",
+            "date": "2025-11-06"
+        },
+        {
+            "title": "Mother of suspect in Ulytau expresses concern over case",
+            "url": "https://kaztag.kz/en/news/mother-of-suspect-in-ulytau-expresses-concern-over-case",
+            "date": "2025-11-06"
+        },
+        {
+            "title": "Kazakhstan to extend moratorium on loan sale to debt collectors",
+            "url": "https://kaztag.kz/en/news/kazakhstan-to-extend-moratorium-on-loan-sale-to-debt-collectors",
+            "date": "2025-11-06"
+        },
+        {
+            "title": "Union of Journalists of Kazakhstan signs memorandum with Turkish media",
+            "url": "https://kaztag.kz/en/news/union-of-journalists-of-kazakhstan-signs-memorandum-with-turkish-media",
+            "date": "2025-11-06"
+        },
+        {
+            "title": "Major fire at market in Astana extinguished",
+            "url": "https://kaztag.kz/en/news/major-fire-at-market-in-astana-extinguished",
+            "date": "2025-11-06"
+        },
+        {
+            "title": "Gold price went up after morning interbank fixing in London",
+            "url": "https://kaztag.kz/en/news/gold-price-went-up-adddde3wfter-morning-interbank-fixing-in-london",
+            "date": "2025-11-06"
+        },
+        {
+            "title": "Major fire broke out at market in Astana",
+            "url": "https://kaztag.kz/en/news/major-fire-broke-out-at-market-in-astana",
+            "date": "2025-11-06"
+        },
+        {
+            "title": "Tokayev arrives in Washington",
+            "url": "https://kaztag.kz/en/news/tokayev-arrives-in-washington",
+            "date": "2025-11-06"
+        },
+        {
+            "title": "Pilots found guilty posthumously in Bek Air crash in Almaty",
+            "url": "https://kaztag.kz/en/news/pilots-found-guilty-posthumously-in-bek-air-crash-in-almaty",
+            "date": "2025-11-06"
+        },
+        {
+            "title": "Half of monthly rainfall recorded in one day in Almaty",
+            "url": "https://kaztag.kz/en/news/half-of-monthly-rainfall-recorded-in-one-day-in-almaty",
+            "date": "2025-11-05"
+        },
+        {
+            "title": "Another incident occurs at Kazakhmys mine",
+            "url": "https://kaztag.kz/en/news/another-incident-occurs-at-kazakhmys-mine",
+            "date": "2025-11-05"
+        },
+        {
+            "title": "Several Amur tigers to be brought from Russia to Kazakhstan",
+            "url": "https://kaztag.kz/en/news/several-amur-tigers-to-be-brought-from-russia-to-kazakhstan",
+            "date": "2025-11-05"
+        },
+        {
+            "title": "Around 20 traffic accidents occurred overnight in Almaty",
+            "url": "https://kaztag.kz/en/news/around-20-traffic-accidents-occurred-overnight-in-almaty",
+            "date": "2025-11-05"
+        }
+    ]
+}
